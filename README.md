@@ -3,14 +3,12 @@
 <br> <a href ="https://rajsinha77.github.io/RajSinha/ " > CLICK <a>
 </h4>
 <h2>You can Fork my repository to have a website like this </h2>
-  <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+  
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>The iframe element</h1>
-
-<img src="Screenshot (82).png" alt="PORTFOLIO">
+<a href = "https://rajsinha77.github.io/RajSinha/ " >  <img src="Screenshot (82).png" alt="PORTFOLIO"> </a>
 
 </body>
 </html>
