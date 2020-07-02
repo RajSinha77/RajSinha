@@ -1,7 +1,4 @@
-# RajSinha
-
-<H2> PORTFOLIO WEBSITE </H2>
-<br>
+# PORTFOLIO WEBSITE
 <h4> Click here to view my personal website 
 <br> <a href ="https://rajsinha77.github.io/RajSinha/ " > CLICK <a>
 </h4>
