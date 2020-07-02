@@ -10,8 +10,7 @@
 
 <h1>The iframe element</h1>
 
-<iframe src="https://www.w3schools.com" width="100%" height="300" title="W3Schools Free Online Web Tutorials">
-</iframe>
+<img src="Screenshot (82).png" alt="PORTFOLIO">
 
 </body>
 </html>
